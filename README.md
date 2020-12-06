@@ -6,6 +6,7 @@ List of sources to look for datasets.
 - [Kaggle: Datasets](https://www.kaggle.com/datasets)
 - [GitHub: Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [Data.gov](https://catalog.data.gov/dataset)
+- [EU Open Data Portal](https://data.europa.eu/euodp/de/data/)
 - [Dataquest: 21 Places to Find Free Datasets for Data Science Projects](https://www.dataquest.io/blog/free-datasets-for-projects/)
 - [KDnuggets: Datasets for Data Mining and Data Science](https://www.kdnuggets.com/datasets/index.html)
 - [UCI: Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
